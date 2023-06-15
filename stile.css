@@ -2,5 +2,5 @@ body {background-color: powderblue;}
 h1 {color: #CE93D8;}
 p {color: black;}
  
-#main {background-image: url('DESIGN-07_1024.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; width:1000px; height:900px; color: #E3F2FD; text-shadow: 8px 8px #CE93D8;
+#main {background-image: url('DESIGN-07_1024.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; width:1000px; height:900px; color: #E3F2FD; 
 }
